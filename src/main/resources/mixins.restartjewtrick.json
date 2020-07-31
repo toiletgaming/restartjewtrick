@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "fuck.you.mixins",
+  "refmap": "mixins.restartjewtrick.refmap.json",
+  "client": [
+    "MixinGuiMultiplayer",
+    "MixinGuiDisconnected",
+    "MixinGuiMainMenu",
+    "MixinGuiConnecting"
+  ]
+}

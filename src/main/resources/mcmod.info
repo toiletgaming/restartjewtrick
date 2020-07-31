@@ -1,0 +1,16 @@
+[
+{
+  "modid": "restartjewtrick",
+  "name": "Restart Jew Trick",
+  "description": "Automatically joins 2b2t.org after it restarts",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://vk.com/moneymodinc",
+  "updateUrl": "",
+  "authorList": ["mrnv/ayywareseller"],
+  "credits": "KAMI for Mixin implementation\ngithub.com/lucaazalim/minecraft-server-ping for MCPing\nTHEREALWWEFAN231 for information on Gui screens editing",
+  "logoFile": "moneymod.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
